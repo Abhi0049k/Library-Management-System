@@ -20,13 +20,15 @@ Welcome to the **Library Management System** — a simple yet powerful C++23 con
 - **Environment**: Windows (MSYS2 / MinGW-w64 setup)
 
 ## 🗂️ Project Structure
+```
+.
 ├── include/        # Header files (Book.h, User.h, Library.h)
 ├── src/            # Source files (Book.cpp, User.cpp, Library.cpp)
 ├── bin/            # Compiled object files (.o)
 ├── main.cpp        # Main driver program
 ├── Makefile        # Build instructions
 └── README.md       # Project documentation
-
+```
 ## ⚙️ How to Build and Run
 
 1. **Ensure you have `g++` installed** (preferably via MSYS2 or MinGW-w64).
